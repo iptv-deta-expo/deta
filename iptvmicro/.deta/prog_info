@@ -1,0 +1,1 @@
+{"id":"84331e54-7e27-4bae-ac93-e6630c743e71","space":8016,"runtime":"nodejs14.x","name":"iptvmicro","path":"qovggr","project":"a0ay2oy8","account":"144798365827","region":"eu-central-1","deps":["express@^4.18.2","node-html-parser@^6.1.4","request@^2.88.2"],"envs":null,"public":true,"log_level":"off","cron":""}
